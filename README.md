@@ -1,5 +1,5 @@
 # Telecom Churn Prediction
-Predicting whether customers will churn or not using classification algorithms such as Logistic Regression, SVM, Decision Tree, Random Forests and kNN.
+Preliminary procedure(before deployment) for predicting whether customers will churn or not using classification algorithms such as Logistic Regression, SVM, Decision Tree, Random Forests and kNN.
 
 ## Libraries used:
 * Pandas -> 1.0.5
